@@ -1,6 +1,7 @@
 # OPCModbusUAServer
 An open source OPC UA server for Modbus TCP devices. The project makes use of the powerful open source NodeOPCUA (http://node-opcua.github.io/) package, combined with the jsmodbus (https://github.com/Cloud-Automation/node-modbus) package to build the OPC server.
 
+If you are not familiar with OPC, it's worth reading this: http://www.minaandrawos.com/2016/12/18/thoughts_industrial_opc/, if not familiar with Modbus, then this would be another good read: http://www.minaandrawos.com/2014/11/26/how-to-write-a-modbus-driver/#WhatIsModbus 
 
 ----------
 
