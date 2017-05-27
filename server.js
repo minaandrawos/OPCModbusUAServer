@@ -2,7 +2,7 @@
 
 var opcua = require("node-opcua");
 var config = require("./config.json");
-var modbusHandler = require("modbushandler")
+var modbusHandler = require("./modbushandler")
 
 
 var server = new opcua.OPCUAServer({
